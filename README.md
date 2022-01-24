@@ -1,4 +1,5 @@
 # js-and-jQuery
+# Basic JS and jQuery project:
 
 ## Drawing App (jQuery jQuery UI & HTML5 Canvas)
 <img src = "Drawing-app.png" width = "600px">
